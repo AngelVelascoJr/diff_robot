@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<robot name="diff_mobile" xmlns:xacro="http://ros.org/wiki/xacro" >
+
+    <xacro:include filename="Inertia.xacro"/>
+
+    <xacro:include filename="materials.xacro"/>
+
+    <xacro:include filename="mobile_base.xacro"/>
+    
+
+</robot>

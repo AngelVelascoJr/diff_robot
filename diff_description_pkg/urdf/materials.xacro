@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<robot xmlns:xacro="http://ros.org/wiki/xacro" >
+
+    <material name="SemiTransparentGray">
+        <color rgba="${137.0/255.0} ${137.0/255.0} ${137.0/255.0} 0.5"/>
+    </material>
+
+    <material name="green">
+        <color rgba="0 1 0 1"/>
+    </material>
+
+    <material name="white">
+        <color rgba="1 1 1 0.8"/>
+    </material>
+
+    
+
+</robot>
